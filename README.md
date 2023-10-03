@@ -1,4 +1,5 @@
 O projeto consiste em uma página de controle financeiro na qual o usuário possa adicionar e remover valores de entrada ou saída do mês em que estamos.
+
 Funcionalidades Principais:
 
 Registro de Entradas e Gastos: Os usuários podem adicionar informações sobre suas entradas financeiras (por exemplo, salário, renda extra) e gastos (como contas, despesas diversas). Cada registro inclui um campo para a descrição e o valor do valor financeiro.
