@@ -13,3 +13,5 @@ Exclusão de Transações: Os usuários têm a capacidade de apagar registros de
 Totalizador de Lucro: Um quadro exibe o lucro total do mês em um local de fácil acesso, permitindo que os usuários vejam imediatamente como estão indo em termos financeiros.
 
 Projeto público com permissão da Kenzie Academy Brasil
+
+Para rodar o projeto basta clonar o repositório e usar o comando npm run dev.
